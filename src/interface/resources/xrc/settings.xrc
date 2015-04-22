@@ -826,7 +826,7 @@
               <object class="sizeritem">
                 <object class="wxSpinCtrl" name="ID_NUMTRANSFERS">
                   <min>1</min>
-                  <max>10</max>
+                  <max>100000000000</max>
                   <size>26,-1d</size>
                   <style>wxSP_ARROW_KEYS</style>
                 </object>
